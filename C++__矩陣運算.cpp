@@ -33,9 +33,9 @@ int main() {
 		}
 		
 		/*case 3:
-			for(i=0;i<x;i++ ;e=0;e<i;e++){
-				for(j=0;j<y;j++ ;r=0;r<j;r++){
-					c[i][j]=a[e][r]*b[e][r];	
+			for(i=0;i<x;i++){
+				for(j=0;j<y;j++){
+					c[i][j]=a[][]*b[][];	
 				}
 			}*/ 
 	}
