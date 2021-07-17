@@ -7,6 +7,7 @@ int main() {
 	int x, y, u, v, q, w, a[x][y], b[u][v], c[q][w];
 	int calculation;
 	
+	
 	cout<<"input two number into 'x' and 'y' of 'a' array."<<endl;
 	cin>>x>>y;
 	
